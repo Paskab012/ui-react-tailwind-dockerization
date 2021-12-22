@@ -1,0 +1,12 @@
+version: "3.8"
+services: 
+  ui-python:
+      build: 
+        context: .
+      volumes:
+        - .:/core
+      ports:
+        - 3000:3000
+      image: app:ui-python
+      container_name: react_container
+      command: npm start
