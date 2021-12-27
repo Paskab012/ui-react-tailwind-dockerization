@@ -1,5 +1,5 @@
 import React from "react";
-import CardBody from "../../body/CardBody";
+import CardBody from "../body/CardBody";
 import AllAccount from "../allAcounts/AllAccount";
 import Sidebar from "../sidebar/Sidebar";
 

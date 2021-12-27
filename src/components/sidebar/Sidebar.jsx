@@ -7,7 +7,7 @@ function Sidebar() {
              <div className="sticky flex flex-col justify-between h-screen bg-purple-100 shadow w-80 sm:relative">
                 <div className="px-8">
                     <div className="flex items-center justify-between w-full h-12">
-                        <p className='text-purple-600 '>My account</p>
+                        <p className='text-2xl font-bold text-purple-600'>My account</p>
                        <NewAccount/>
                     </div>
                     <ul className="mt-12 ">
