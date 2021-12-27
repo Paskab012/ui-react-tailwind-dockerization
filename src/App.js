@@ -1,6 +1,5 @@
 import Home from './components/home/Home';
 import TopBar from './components/topbar/Topbar';
-import { Routespage } from './Routes';
 
 
 function App() {
