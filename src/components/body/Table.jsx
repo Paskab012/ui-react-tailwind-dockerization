@@ -21,9 +21,9 @@ function Table() {
                     </div>
                     <div className="px-4 py-4 bg-white md:py-7 md:px-8 xl:px-10">
                         <div className="overflow-x-auto mt-7">
-                            <table className="w-full whitespace-nowrap">
+                            <table className="w-screen whitespace-wrap">
                                 <tbody>
-                                    <tr className="h-16 border border-gray-100 rounded">
+                                    <tr>
                                         <td>
                                             <div className="ml-5">
                                                 <div className="relative flex items-center justify-center flex-shrink-0 w-5 h-5">
@@ -37,12 +37,11 @@ function Table() {
                                             </div>
                                         </td>
                                         <td className>
-                                            <div className="flex items-center pl-5">
+                                            <div className="flex items-center pl-10">
                                                 <p className="mr-2 text-base font-medium leading-none text-gray-700">600,000rfw</p>
                                             </div>
                                         </td>
-                                        
-                                        <td className="pl-24">
+                                        <td className="pl-7">
                                             <div className="items-center ">
                                                 <p className="ml-2 text-sm leading-none text-gray-600">27 Dec 2021</p>
                                             </div>

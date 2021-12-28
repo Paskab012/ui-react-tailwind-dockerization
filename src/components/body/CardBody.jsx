@@ -12,7 +12,7 @@ function CardBody(props) {
             <div className="justify-center -ml-8">
                     <div className="items-center justify-center px-6 py-12 dark:bg-gray-900" style={{maxWidth:"383px"}}>
                             <div className="flex flex-col justify-between h-40 px-4 py-5 m-auto mb-6 bg-purple-100 rounded-lg align-center dark:bg-gray-800 ">
-                            <h3 className="m-8 ml-12 text-3xl font-bold text-purple-700">1,467,845 Rwf
+                            <h3 className="m-8 ml-12 text-3xl font-bold text-purple-700">100,000 Rwf
                                 <br /><p className="ml-8 text-sm font-normal text-gray-600">02 Feb 2020 - Now</p>
 
                             </h3>
